@@ -1,21 +1,25 @@
-# Pokemon Generator
+Here’s an enlarged version of the text with increased readability:  
 
+---
 
+# **Pokemon Generator**  
 
+This is a **random Pokémon card generator** made using **HTML, CSS, and JavaScript**. The program uses the **RESTful API** ([PokeAPI](https://pokeapi.co/)) to retrieve information about each Pokémon.  
 
-This is a random pokemon card generator made by using HTML, CSS, and JavaScript. The program uses the RESTful API (https://pokeapi.co/) to retrieve information about each Pokemon. 
+---
 
+## **✓ Installation and Setup Instructions**  
 
+To set up and run the project:  
+1. Open the link: **[https://codingartistweb.com/2021/09/pokemon-card-generator-javascript/](https://codingartistweb.com/2021/09/pokemon-card-generator-javascript/)**  
+2. Inside the article, you will find **detailed instructions** on how to set up the files.  
 
+---
 
+## **✓ Usage**  
 
-✓ Installation and Setup Instructions:
-To set up and run the project, first you need to open the link: https://codingartistweb.com/2021/09/pokemon-card-generator-javascript/
-Then, you can see inside the article the detailed instructions about how to set up the files. 
+- There is a button called **'Generate'**, which is responsible for changing the current card displayed on the screen.  
 
+---  
 
-
-
-
-✓ Usage:
-There is a button called 'Generate' responsible to change the current card on the screen.
+Let me know if you need additional edits or details!
